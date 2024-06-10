@@ -1,6 +1,8 @@
 After Cloning the project 
-1)npm install
-2)npm run dev
+
+
+ 1)npm install
+ 2)npm run dev
 
 
 ![Screenshot 2024-06-10 122501](https://github.com/MrRitik/weather-app-/assets/95371225/4d7648eb-d170-4d9b-a126-aafb4bb04645)
