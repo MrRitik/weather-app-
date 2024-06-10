@@ -1,0 +1,19 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+:root{
+    --bg1: black;
+    --bg2: white;
+    --toogle: yellow;
+}
+[data-theme="dark"]{
+    --bg1: white;
+    --bg2:black;
+}
+.App{
+
+    background: var(--bg2);
+}
